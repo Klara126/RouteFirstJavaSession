@@ -48,3 +48,8 @@ Uses the ternary operator to:
 Determine the greater number
 
 Check if a number is even or odd
+
+
+-------------------------------------------------
+
+session two coming soon
